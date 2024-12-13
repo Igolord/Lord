@@ -16,7 +16,7 @@ const {
 } = require("./lib/youtube");
 
 var criador = ['LORD IGO'];
-var key = 'LORD'
+var key = 'igo'
 
 resposta = {
     semkey: {
