@@ -15,8 +15,8 @@ const {
   ytSearch
 } = require("./lib/youtube");
 
-var criador = ['pedrozz_Mods'];
-var key = 'rayk'
+var criador = ['LORD IGO'];
+var key = 'LORD'
 
 resposta = {
     semkey: {
